@@ -1,5 +1,6 @@
 # SheCodes-2022
 How to increase productivity in teamwork 
+
 Thực trạng: 
   - Chênh lệch khả năng, thiếu sự tương tác giữa các thành viên trong team. => Điều này có thể dẫn đến việc khối lượng công việc không đồng nhất giữa các thành viên, người làm ít, người làm nhiều, hoặc người không làm, nhưng kết quả cả nhóm làm là như nhau. 
   - Thiếu tương tác trong quá trình làm việc cũng gây ra lãng phí thời gian khi mọi nguời không theo dõi được tiến độ công việc của nhau => Không chủ động làm được phần việc của mình, dẫn đến thiếu thời gian, chậm deadline, giảm năng suất làm việc và hơn thế là mâu thuẫn nội bộ trong team. 
