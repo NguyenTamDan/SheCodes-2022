@@ -1,5 +1,6 @@
-# SheCodes-2022
+# SheCodes Hackathon 2022
 How to increase productivity in teamwork 
+Topic: Creating solutions to help increase the efficiency of coordination / cooperation among individuals in the group / organization, thereby improving overall work performance.
 
 Thực trạng: 
   - Chênh lệch khả năng, thiếu sự tương tác giữa các thành viên trong team. => Điều này có thể dẫn đến việc khối lượng công việc không đồng nhất giữa các thành viên, người làm ít, người làm nhiều, hoặc người không làm, nhưng kết quả cả nhóm làm là như nhau. 
