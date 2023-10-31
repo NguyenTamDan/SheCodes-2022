@@ -1,9 +1,9 @@
 # SheCodes Hackathon 2022
 ## Topic:
-How to increase productivity in teamwork 
+Creating solutions to improve overall work performance.
 
 ## Solution: 
-Creating a tool to help increase the efficiency of coordination/ cooperation among individuals in the group/ organization, thereby improving overall work performance.
+Create a tool to analyze the operation of a company to solve problems internally and implement goal-oriented strategies in companies.
 
 Measuring, tracking, and benchmarking developer productivity has been considered a black box. It doesn’t have to be that way.
 Compared with other critical business functions such as sales or customer operations, software development is perennially undermeasured. The long-held belief by many in tech is that it’s not possible to do it correctly—and that, in any case, only trained engineers are knowledgeable enough to assess the performance of their peers. Yet that status quo is no longer sustainable. Now that most companies are becoming (to one degree or another) software companies, regardless of industry, leaders need to know they are deploying their most valuable talent as successfully as possible.
